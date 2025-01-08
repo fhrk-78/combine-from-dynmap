@@ -7,7 +7,7 @@ If Windows:
 ```ps
 > py -3.12 -m venv .venv
 > .\.venv\Scripts\activate
-(.venv) > pip i -r requirements.txt
+(.venv) > pip install -r requirements.txt
 ```
 
 Dynmapから拡大画像を結合して高解像度地図画像を生成するコード
